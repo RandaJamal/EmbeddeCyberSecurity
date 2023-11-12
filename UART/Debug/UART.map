@@ -1,0 +1,834 @@
+Archive member included because of file (symbol)
+
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                              ./LCD_program.o (__udivmodsi4)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o (exit)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              ./LCD_program.o (__do_copy_data)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              ./LCD_program.o (__do_clear_bss)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                              ./LCD_program.o (__fixunssfsi)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                              c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__subsf3)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                              ./LCD_program.o (__mulsf3)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                              ./LCD_program.o (__gtsf2)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                              c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__gesf2)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                              ./LCD_program.o (__ltsf2)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                              c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__fixsfsi)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                              c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__thenan_sf)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                              c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                              c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                              c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__pack_f)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                              c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__unpack_f)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                              c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(rand.o)
+                              ./main.o (rand)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memset.o)
+                              ./main.o (memset)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcmp.o)
+                              ./main.o (strcmp)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strupr.o)
+                              ./main.o (strupr)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(snprintf.o)
+                              ./main.o (snprintf)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sscanf.o)
+                              ./main.o (sscanf)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                              c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(snprintf.o) (vfprintf)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfscanf_std.o)
+                              c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sscanf.o) (vfscanf)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eerd_word_atmega32.o)
+                              ./main.o (__eerd_word_m32)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eewr_word_atmega32.o)
+                              ./main.o (__eewr_word_m32)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(isspace.o)
+                              c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfscanf_std.o) (isspace)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strchr_P.o)
+                              c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfscanf_std.o) (strchr_P)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                              c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (strnlen_P)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                              c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (strnlen)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fgetc.o)
+                              c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfscanf_std.o) (fgetc)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fputc.o)
+                              c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (fputc)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ungetc.o)
+                              c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfscanf_std.o) (ungetc)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                              c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (__ultoa_invert)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eerd_block_atmega32.o)
+                              c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eerd_word_atmega32.o) (__eerd_blraw_m32)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eewr_byte_atmega32.o)
+                              c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eewr_word_atmega32.o) (__eewr_byte_m32)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+                              c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(isspace.o) (__ctype_isfalse)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                              c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(rand.o) (__mulsi3)
+c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                              c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(rand.o) (__divmodsi4)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+LOAD ./LCD_program.o
+LOAD ./UART.o
+LOAD ./main.o
+LOAD ./program.o
+LOAD c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x3f1c
+ *(.vectors)
+ .vectors       0x00000000       0x54 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+ .progmem.data  0x00000054        0xc c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfscanf_std.o)
+                0x00000060                . = ALIGN (0x2)
+                0x00000060                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000060        0x0 linker stubs
+ *(.trampolines*)
+                0x00000060                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000060                __ctors_start = .
+ *(.ctors)
+                0x00000060                __ctors_end = .
+                0x00000060                __dtors_start = .
+ *(.dtors)
+                0x00000060                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000060        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000060                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000060        0xc c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000006c       0x16 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x0000006c                __do_copy_data
+ .init4         0x00000082       0x10 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x00000082                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000092        0x8 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x0000009a        0x4 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x0000009a                __vector_1
+                0x0000009a                __vector_12
+                0x0000009a                __bad_interrupt
+                0x0000009a                __vector_6
+                0x0000009a                __vector_3
+                0x0000009a                __vector_11
+                0x0000009a                __vector_13
+                0x0000009a                __vector_17
+                0x0000009a                __vector_19
+                0x0000009a                __vector_7
+                0x0000009a                __vector_5
+                0x0000009a                __vector_4
+                0x0000009a                __vector_9
+                0x0000009a                __vector_2
+                0x0000009a                __vector_15
+                0x0000009a                __vector_8
+                0x0000009a                __vector_14
+                0x0000009a                __vector_10
+                0x0000009a                __vector_16
+                0x0000009a                __vector_18
+                0x0000009a                __vector_20
+ .text          0x0000009e        0x0 ./LCD_program.o
+ .text          0x0000009e        0x0 ./UART.o
+ .text          0x0000009e        0x0 ./main.o
+ .text          0x0000009e        0x0 ./program.o
+ .text          0x0000009e        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x0000009e        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x0000009e        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x0000009e        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text          0x0000009e       0x58 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                0x0000009e                __fixunssfsi
+ .text          0x000000f6      0x354 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                0x0000038e                __subsf3
+                0x000003f0                __addsf3
+ .text          0x0000044a      0x1f4 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                0x0000044a                __mulsf3
+ .text          0x0000063e       0x60 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                0x0000063e                __gtsf2
+ .text          0x0000069e       0x60 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                0x0000069e                __gesf2
+ .text          0x000006fe       0x60 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                0x000006fe                __ltsf2
+ .text          0x0000075e       0xa8 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                0x0000075e                __fixsfsi
+ .text          0x00000806        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .text          0x00000806        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .text          0x00000806        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .text          0x00000806      0x1aa c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                0x00000806                __pack_f
+ .text          0x000009b0       0xf0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                0x000009b0                __unpack_f
+ .text          0x00000aa0       0xb2 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                0x00000aa0                __fpcmp_parts_f
+ .text          0x00000b52        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(rand.o)
+ .text          0x00000b52        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memset.o)
+ .text          0x00000b52        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcmp.o)
+ .text          0x00000b52        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strupr.o)
+ .text          0x00000b52        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(snprintf.o)
+ .text          0x00000b52        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sscanf.o)
+ .text          0x00000b52        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .text          0x00000b52        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfscanf_std.o)
+ .text          0x00000b52        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eerd_word_atmega32.o)
+ .text          0x00000b52        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eewr_word_atmega32.o)
+ .text          0x00000b52        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(isspace.o)
+ .text          0x00000b52        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strchr_P.o)
+ .text          0x00000b52        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .text          0x00000b52        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .text          0x00000b52        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fgetc.o)
+ .text          0x00000b52        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .text          0x00000b52        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ungetc.o)
+ .text          0x00000b52        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .text          0x00000b52        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eerd_block_atmega32.o)
+ .text          0x00000b52        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eewr_byte_atmega32.o)
+ .text          0x00000b52        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+ .text          0x00000b52        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .text          0x00000b52        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                0x00000b52                . = ALIGN (0x2)
+ *(.text.*)
+ .text.CLCD_voidCommand
+                0x00000b52      0x48c ./LCD_program.o
+                0x00000b52                CLCD_voidCommand
+ .text.CLCD_voidSendData
+                0x00000fde      0x48c ./LCD_program.o
+                0x00000fde                CLCD_voidSendData
+ .text.CLCD_voidInit
+                0x0000146a      0x3f6 ./LCD_program.o
+                0x0000146a                CLCD_voidInit
+ .text.CLCD_GoTOXY
+                0x00001860       0x58 ./LCD_program.o
+                0x00001860                CLCD_GoTOXY
+ .text.CLCD_voidSendString
+                0x000018b8       0x52 ./LCD_program.o
+                0x000018b8                CLCD_voidSendString
+ .text.CLCD_voidWriteNumber
+                0x0000190a       0xe6 ./LCD_program.o
+                0x0000190a                CLCD_voidWriteNumber
+ .text.write_special_character
+                0x000019f0       0x84 ./LCD_program.o
+                0x000019f0                write_special_character
+ .text.CLCD_Void_LCDClear
+                0x00001a74       0x14 ./LCD_program.o
+                0x00001a74                CLCD_Void_LCDClear
+ .text.UART_init
+                0x00001a88       0x98 ./UART.o
+                0x00001a88                UART_init
+ .text.UART_sendByte
+                0x00001b20       0x2e ./UART.o
+                0x00001b20                UART_sendByte
+ .text.UART_recieveByte
+                0x00001b4e       0x1e ./UART.o
+                0x00001b4e                UART_recieveByte
+ .text.UART_sendString
+                0x00001b6c       0x52 ./UART.o
+                0x00001b6c                UART_sendString
+ .text.UART_receiveString
+                0x00001bbe       0x86 ./UART.o
+                0x00001bbe                UART_receiveString
+ .text.initRandomSeed
+                0x00001c44       0x54 ./main.o
+                0x00001c44                initRandomSeed
+ .text.GenerateRandomHexNumber
+                0x00001c98       0x12 ./main.o
+                0x00001c98                GenerateRandomHexNumber
+ .text.main     0x00001caa      0xb44 ./main.o
+                0x00001caa                main
+ .text.DIO_INIT
+                0x000027ee      0x224 ./program.o
+                0x000027ee                DIO_INIT
+ .text.DIO_SetPinValue
+                0x00002a12      0x21c ./program.o
+                0x00002a12                DIO_SetPinValue
+ .text.DIO_ReadPin
+                0x00002c2e      0x126 ./program.o
+                0x00002c2e                DIO_ReadPin
+ .text.TogglePin
+                0x00002d54      0x19e ./program.o
+                0x00002d54                TogglePin
+ .text.DIO_SetPortDirection
+                0x00002ef2      0x10e ./program.o
+                0x00002ef2                DIO_SetPortDirection
+ .text.DIO_SetPortValue
+                0x00003000      0x10e ./program.o
+                0x00003000                DIO_SetPortValue
+ .text.libgcc   0x0000310e       0x44 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                0x0000310e                __udivmodsi4
+ .text.libgcc   0x00003152        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00003152        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00003152        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00003152       0x38 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                0x00003152                __prologue_saves__
+ .text.libgcc   0x0000318a       0x36 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                0x0000318a                __epilogue_restores__
+ .text.avr-libc
+                0x000031c0       0xc2 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(rand.o)
+                0x0000325c                rand_r
+                0x00003262                rand
+                0x0000326c                srand
+ .text.avr-libc
+                0x00003282        0xe c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memset.o)
+                0x00003282                memset
+ .text.avr-libc
+                0x00003290       0x12 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcmp.o)
+                0x00003290                strcmp
+ .text.avr-libc
+                0x000032a2       0x14 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strupr.o)
+                0x000032a2                strupr
+ .text.avr-libc
+                0x000032b6       0x62 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(snprintf.o)
+                0x000032b6                snprintf
+ .text.avr-libc
+                0x00003318       0x34 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sscanf.o)
+                0x00003318                sscanf
+ .text.avr-libc
+                0x0000334c      0x3ba c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                0x0000334c                vfprintf
+ .text.avr-libc
+                0x00003706      0x52a c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfscanf_std.o)
+                0x00003a0e                vfscanf
+ .text.avr-libc
+                0x00003c30        0xc c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eerd_word_atmega32.o)
+                0x00003c30                __eerd_word_m32
+ .text.avr-libc
+                0x00003c3c        0xa c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eewr_word_atmega32.o)
+                0x00003c3c                __eewr_word_m32
+ .text.avr-libc
+                0x00003c46       0x10 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(isspace.o)
+                0x00003c46                isspace
+ .text.avr-libc
+                0x00003c56       0x16 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strchr_P.o)
+                0x00003c56                strchr_P
+ .text.avr-libc
+                0x00003c6c       0x16 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                0x00003c6c                strnlen_P
+ .text.avr-libc
+                0x00003c82       0x16 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                0x00003c82                strnlen
+ .text.avr-libc
+                0x00003c98       0x84 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fgetc.o)
+                0x00003c98                fgetc
+ .text.avr-libc
+                0x00003d1c       0x58 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fputc.o)
+                0x00003d1c                fputc
+ .text.avr-libc
+                0x00003d74       0x34 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ungetc.o)
+                0x00003d74                ungetc
+ .text.avr-libc
+                0x00003da8       0xbc c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                0x00003da8                __ultoa_invert
+ .text.avr-libc
+                0x00003e64       0x20 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eerd_block_atmega32.o)
+                0x00003e68                __eerd_blraw_m32
+                0x00003e64                __eerd_block_m32
+ .text.avr-libc
+                0x00003e84       0x1a c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eewr_byte_atmega32.o)
+                0x00003e86                __eewr_r18_m32
+                0x00003e84                __eewr_byte_m32
+ .text.avr-libc
+                0x00003e9e        0x6 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+                0x00003ea2                __ctype_istrue
+                0x00003e9e                __ctype_isfalse
+ .text.libgcc   0x00003ea4       0x3e c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                0x00003ea4                __mulsi3
+ .text.libgcc   0x00003ee2       0x36 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                0x00003ee2                __divmodsi4
+                0x00003f18                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00003f18        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x00003f18                exit
+                0x00003f18                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00003f18        0x4 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00003f1c                _etext = .
+
+.data           0x00800060       0x70 load address 0x00003f1c
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .data          0x00800060        0x0 ./LCD_program.o
+ .data          0x00800060        0x0 ./UART.o
+ .data          0x00800060       0x59 ./main.o
+ .data          0x008000b9        0x0 ./program.o
+ .data          0x008000b9        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x008000b9        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x008000b9        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x008000b9        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x008000b9        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .data          0x008000b9        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .data          0x008000b9        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .data          0x008000b9        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .data          0x008000b9        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .data          0x008000b9        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .data          0x008000b9        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .data          0x008000b9        0x8 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                0x008000b9                __thenan_sf
+ .data          0x008000c1        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .data          0x008000c1        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .data          0x008000c1        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .data          0x008000c1        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .data          0x008000c1        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x008000c1        0x4 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(rand.o)
+ .data          0x008000c5        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memset.o)
+ .data          0x008000c5        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcmp.o)
+ .data          0x008000c5        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strupr.o)
+ .data          0x008000c5        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(snprintf.o)
+ .data          0x008000c5        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sscanf.o)
+ .data          0x008000c5        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .data          0x008000c5        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfscanf_std.o)
+ .data          0x008000c5        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eerd_word_atmega32.o)
+ .data          0x008000c5        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eewr_word_atmega32.o)
+ .data          0x008000c5        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(isspace.o)
+ .data          0x008000c5        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strchr_P.o)
+ .data          0x008000c5        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .data          0x008000c5        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .data          0x008000c5        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fgetc.o)
+ .data          0x008000c5        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .data          0x008000c5        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ungetc.o)
+ .data          0x008000c5        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .data          0x008000c5        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eerd_block_atmega32.o)
+ .data          0x008000c5        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eewr_byte_atmega32.o)
+ .data          0x008000c5        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+ .data          0x008000c5        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .data          0x008000c5        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ *(.data*)
+ .data.Local_ArrayOfChar.1479
+                0x008000c5        0xa ./LCD_program.o
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x008000d0                . = ALIGN (0x2)
+ *fill*         0x008000cf        0x1 00
+                0x008000d0                _edata = .
+                0x008000d0                PROVIDE (__data_end, .)
+
+.bss            0x008000d0        0xb
+                0x008000d0                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .bss           0x008000d0        0x0 ./LCD_program.o
+ .bss           0x008000d0        0x0 ./UART.o
+ .bss           0x008000d0        0x0 ./main.o
+ .bss           0x008000d0        0x0 ./program.o
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(rand.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memset.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcmp.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strupr.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(snprintf.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sscanf.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfscanf_std.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eerd_word_atmega32.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eewr_word_atmega32.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(isspace.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strchr_P.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fgetc.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ungetc.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eerd_block_atmega32.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eewr_byte_atmega32.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x008000d0        0x0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ *(.bss*)
+ .bss.Local_ArrayOfDigits.1480
+                0x008000d0        0xa ./LCD_program.o
+ .bss.flag.1768
+                0x008000da        0x1 ./main.o
+ *(COMMON)
+                0x008000db                PROVIDE (__bss_end, .)
+                0x00003f1c                __data_load_start = LOADADDR (.data)
+                0x00003f8c                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008000db        0x0
+                0x008000db                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008000db                PROVIDE (__noinit_end, .)
+                0x008000db                _end = .
+                0x008000db                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000     0x26f4
+ *(.stab)
+ .stab          0x00000000     0x1104 ./LCD_program.o
+ .stab          0x00001104      0x39c ./UART.o
+                                0x594 (size before relaxing)
+ .stab          0x000014a0      0xae0 ./main.o
+                                0xcfc (size before relaxing)
+ .stab          0x00001f80      0x774 ./program.o
+                                0x7ec (size before relaxing)
+
+.stabstr        0x00000000     0x14c9
+ *(.stabstr)
+ .stabstr       0x00000000     0x14c9 ./LCD_program.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x140
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_aranges
+                0x00000020       0x20 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x00000040       0x20 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x00000060       0x20 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_aranges
+                0x00000080       0x20 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_aranges
+                0x000000a0       0x20 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_aranges
+                0x000000c0       0x20 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_aranges
+                0x000000e0       0x20 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x00000100       0x20 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x00000120       0x20 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_pubnames
+                0x00000000      0x170
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x23 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_pubnames
+                0x00000023       0x2c c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_pubnames
+                0x0000004f       0x1f c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_pubnames
+                0x0000006e       0x1e c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_pubnames
+                0x0000008c       0x1e c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_pubnames
+                0x000000aa       0x1e c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_pubnames
+                0x000000c8       0x20 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_pubnames
+                0x000000e8       0x22 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_pubnames
+                0x0000010a       0x1f c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_pubnames
+                0x00000129       0x21 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_pubnames
+                0x0000014a       0x26 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_info     0x00000000     0x1c49
+ *(.debug_info)
+ .debug_info    0x00000000       0xb1 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_info    0x000000b1      0x47a c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_info    0x0000052b      0x485 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_info    0x000009b0      0x27f c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_info    0x00000c2f      0x27f c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_info    0x00000eae      0x27f c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_info    0x0000112d      0x2b0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_info    0x000013dd      0x12c c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_info    0x00001509      0x2df c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_info    0x000017e8      0x251 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_info    0x00001a39      0x210 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000      0xeeb
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x5d c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_abbrev  0x0000005d      0x1ea c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x00000247      0x21b c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x00000462      0x15a c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_abbrev  0x000005bc      0x15a c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_abbrev  0x00000716      0x15a c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_abbrev  0x00000870      0x17f c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_abbrev  0x000009ef       0xad c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x00000a9c      0x1c0 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x00000c5c      0x154 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x00000db0      0x13b c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_line     0x00000000      0xdad
+ *(.debug_line)
+ .debug_line    0x00000000       0xa7 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_line    0x000000a7      0x2af c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_line    0x00000356      0x239 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_line    0x0000058f       0xd3 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_line    0x00000662       0xd3 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_line    0x00000735       0xd3 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_line    0x00000808      0x109 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_line    0x00000911       0x90 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_line    0x000009a1      0x18a c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_line    0x00000b2b      0x14b c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_line    0x00000c76      0x137 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_frame    0x00000000      0x160
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x20 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x00000020       0x40 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_frame   0x00000060       0x20 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_frame   0x00000080       0x20 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_frame   0x000000a0       0x20 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_frame   0x000000c0       0x20 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_frame   0x000000e0       0x20 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_frame   0x00000100       0x20 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_frame   0x00000120       0x20 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x00000140       0x20 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_str      0x00000000      0x28d
+ *(.debug_str)
+ .debug_str     0x00000000       0xbf c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                                 0xfe (size before relaxing)
+ .debug_str     0x000000bf      0x14d c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                                0x206 (size before relaxing)
+ .debug_str     0x0000020c       0x27 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x00000233        0xf c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000242        0x8 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x0000024a        0x8 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000252        0xa c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                                0x19e (size before relaxing)
+ .debug_str     0x00000000      0x103 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_str     0x0000025c       0x16 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                                0x19d (size before relaxing)
+ .debug_str     0x00000272        0xb c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                                0x17f (size before relaxing)
+ .debug_str     0x0000027d       0x10 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                                0x163 (size before relaxing)
+
+.debug_loc      0x00000000      0x7ce
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x34 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_loc     0x00000034      0x32a c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_loc     0x0000035e      0x104 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_loc     0x00000462       0x3c c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_loc     0x0000049e       0x3c c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_loc     0x000004da       0x3c c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_loc     0x00000516       0x7e c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_loc     0x00000594      0x13e c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_loc     0x000006d2       0xac c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_loc     0x0000077e       0x50 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(UART.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x50
+ .debug_ranges  0x00000000       0x50 c:/users/lenovo/downloads/imt/00-tools/01-imt sdk/01- imt sdk-20230728t213645z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
